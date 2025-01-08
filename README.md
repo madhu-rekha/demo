@@ -1,3 +1,5 @@
 # demo
 This is my first Git repository.
-author-madhu
+author-madhu (rekha)
+madhu rekha
+
